@@ -1,6 +1,6 @@
 ﻿# Sample repo for an issue with Microsoft.AspNetCore.ClientAssets
 
-
+AspNetCore Issue: https://github.com/dotnet/aspnetcore/issues/62925
 
 ## Fix net8.0
 
